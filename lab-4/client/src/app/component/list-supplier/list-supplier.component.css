@@ -1,0 +1,7 @@
+/* The CSS property margin defines the margin area on the four sides of the element. */
+.table{
+    margin-top: 50px;
+}
+.container-fluid{
+    margin-top: 50px;
+}
